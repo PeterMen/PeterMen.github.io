@@ -1,2 +1,43 @@
-# PeterMen.github.io
-技术博客
+# Peter's Blog
+
+### 基础知识
+    [1.计算机组成原理](http://note.youdao.com/noteshare?id=5be914bcfa8aa1e9f19b2afb8a167d26&sub=8CB745A81AAD49D697B7D6CCFB6678A2)
+    [2.数据结构](http://note.youdao.com/noteshare?id=edf492e004f75090e05711f8efe9a368&sub=C9C1BA31C89F478888089C382338AB17)
+    [3.操作系统](http://note.youdao.com/noteshare?id=a284047e45df8697ca0c0876ee44fec8&sub=D0078019435D40EA8B5567BC4A7571E8)
+    [4.计算机网络](http://note.youdao.com/noteshare?id=b07b738bcedc739d394b61379da9d1af&sub=68176324C88C48109B8DF8AD29E9C697)
+    [5.编译原理](http://note.youdao.com/noteshare?id=b19ad13c0657a86faef364c098770bec&sub=1295124E3E96405F98F32818BED6069A)
+    
+### 数据结构与算法
+### JAVA
+    [0.Java概览](http://note.youdao.com/noteshare?id=0b92b35ad8a1ea845448bafb39807822&sub=0BC6FB4F42314D15A77AC0909726F762)
+    []()
+    []()
+    []()
+    []()
+    []()
+    []()
+    []()
+    []()
+    []()
+    []()
+    []()
+    []()
+    []()
+    []()
+    []()
+    []()
+    []()
+    []()
+    []()
+    []()
+    []()
+    []()
+    []()
+    []()
+    []()
+    []()
+    []()
+    []()
+    []()
+    []()
+    []()
