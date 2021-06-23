@@ -55,6 +55,7 @@
 4.    [关于企业级搜索服务的研究与实施](http://note.youdao.com/noteshare?id=9ca1c9038f6836ee5239bd9a39e55106&sub=5E533E9E770045A7A935F0B536439D49)
 5.    [同义词问题](http://note.youdao.com/noteshare?id=904c8aa23ba4486acb55793d4e45010f&sub=741F41A3E5044CA7B070E5FCE6BFFBFA)
 6.    [相关性排序](http://note.youdao.com/noteshare?id=34b6f0dea5a1a953cac9a7937e727d4c&sub=7FE9A033D9F34ABBB5DD5E52E63FB138)
+
 #### 架构设计
 1.   [系统可用性](https://note.youdao.com/s/NkMx5wS4)
 2.   [熔断](https://note.youdao.com/s/CBnWmRck)
@@ -63,8 +64,10 @@
 5.   [场景设计](https://note.youdao.com/s/Ywhx8ey9)
 6.   [性能问题](https://note.youdao.com/s/2zVy7nf2)
 7.   [CQRS&DDD](https://note.youdao.com/s/8HrDCDh3)
+
 #### 机器学习&大数据
 1.   [相关资料](http://note.youdao.com/noteshare?id=ffd69a40ef6d16f102a60189d34b269a&sub=64181AB224EE46149C2D249A8565DBA3)
+
 #### 其它
 1.   [企业如何选拔合适的人才](https://note.youdao.com/s/6jqteAlV)
 2.   [团队管理]()
